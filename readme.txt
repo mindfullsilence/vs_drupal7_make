@@ -38,3 +38,5 @@ VS Team:
                   https://github.com/b-ry
                   http://drupal.org/user/846812
                 Michael McQueen
+                  https://github.com/michaelmcqueen
+                  http://drupal.org/user/1866078
