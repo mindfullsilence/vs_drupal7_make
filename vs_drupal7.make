@@ -13,7 +13,7 @@ projects[drupal][type] = core
 ; CCK
 projects[email][subdir] = contrib
 projects[filefield_paths][subdir] = contrib
-; projects[filefield_paths][version] = 1.x-dev
+projects[filefield_paths][version] = 1.x-dev
 projects[link][subdir] = contrib
 
 ; CKEditor
