@@ -13,7 +13,7 @@ projects[drupal][type] = core
 ; CCK
 projects[email][subdir] = contrib
 projects[filefield_paths][subdir] = contrib
-projects[filefield_paths][version] = 1.x-dev
+; projects[filefield_paths][version] = 1.x-dev
 projects[link][subdir] = contrib
 
 ; CKEditor
@@ -28,28 +28,19 @@ projects[devel_themer][subdir] = contrib
 
 ; Features
 projects[features][subdir] = contrib
-;projects[simple_blog][download][type] = git
-;projects[simple_blog][download][url] = git@github.com:jnettik/simple_blog.git
-;projects[simple_blog][subdir] = features
 
 ; IMCE
 projects[imce][subdir] = contrib
 projects[imce_mkdir][subdir] = contrib
 projects[imce_wysiwyg][subdir] = contrib
 
-; Install Profile
-;projects[install][type] = profile
-;projects[install][download][type] = git
-;projects[install][download][url] = https://jnettik@github.com/jnettik/install.git
-
 ; Misc Modules
 projects[auto_nodetitle][subdir] = contrib
 projects[backup_migrate][subdir] = contrib
 projects[ctools][subdir] = contrib
-projects[compact_forms][subdir] = contrib
 projects[conditional_styles][subdir] = contrib
 projects[date][subdir] = contrib
-projects[diff][subdir] = contrib
+;projects[diff][subdir] = contrib
 projects[invisimail][subdir] = contrib
 projects[rules][subdir] = contrib
 projects[taxonomy_menu][subdir] = contrib
@@ -59,10 +50,6 @@ projects[entity][subdir] = contrib
 
 ; Webform
 projects[webform][subdir] = contrib
-;projects[webform_select_email][type] = module
-;projects[webform_select_email][download][type] = git
-;projects[webform_select_email][subdir] = custom
-;projects[webform_select_email][download][url] = git@github.com:jnettik/webform_select_email.git
 
 ; SEO
 projects[redirect][subdir] = contrib
@@ -104,7 +91,6 @@ projects[field_collection][subdir] = contrib
 projects[mollom][subdir] = contrib
 projects[nice_menus][subdir] = contrib
 projects[special_menu_items][subdir] = contrib
-projects[varnish][subdir] = contrib
 projects[module_filter][subdir] = contrib
 projects[chart][subdir] = contrib
 projects[oauth][subdir] = contrib
@@ -123,3 +109,7 @@ projects[taxonomy_filter][subdir] = taxonomy_filter
 ; --------
 projects[] = omega
 projects[] = shiny
+
+projects[vs_admin_theme][type] = theme
+projects[vs_admin_theme][download][type] = git
+projects[vs_admin_theme][download][url] = git://github.com/variantstudios/vs_admin_theme.git
