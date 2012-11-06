@@ -19,7 +19,7 @@ projects[link][subdir] = contrib
 ; CKEditor
 projects[wysiwyg][subdir] = contrib
 libraries[ckeditor][download][type] = "file"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.0%20Beta/ckeditor_4.0_beta.tar.gz"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.5/ckeditor_3.6.5.tar.gz"
 libraries[ckeditor][destination] = "libraries"
 
 ; Devel
@@ -104,6 +104,8 @@ projects[image_url_formatter][subdir] = contrib
 projects[lightbox2][subdir] = contrib
 projects[entityreference][subdir] = contrib
 projects[taxonomy_filter][subdir] = contrib
+projects[field_formatter_settings][subdir] = contrib
+
 
 ; Themes
 ; --------
