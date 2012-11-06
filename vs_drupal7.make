@@ -96,14 +96,14 @@ projects[chart][subdir] = contrib
 projects[oauth][subdir] = contrib
 projects[google_analytics_reports][subdir] = contrib
 projects[google_fonts][subdir] = contrib
-projects[block_class][subdir] = block_class
-projects[browscap][subdir] = browscap
-projects[browserclass][subdir] = browserclass
-projects[browscap_block][subdir] = browscap_block
-projects[image_url_formatter][subdir] = image_url_formatter
-projects[lightbox2][subdir] = lightbox2
-projects[entityreference][subdir] = entityreference
-projects[taxonomy_filter][subdir] = taxonomy_filter
+projects[block_class][subdir] = contrib
+projects[browscap][subdir] = contrib
+projects[browserclass][subdir] = contrib
+projects[browscap_block][subdir] = contrib
+projects[image_url_formatter][subdir] = contrib
+projects[lightbox2][subdir] = contrib
+projects[entityreference][subdir] = contrib
+projects[taxonomy_filter][subdir] = contrib
 
 ; Themes
 ; --------
