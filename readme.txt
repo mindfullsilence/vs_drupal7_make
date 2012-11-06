@@ -26,9 +26,9 @@ Contributors
 
 Variant Studios, Inc. 
 
-Company Website: http://www.variantstudios.com
-Facebook: 		 http://www.facebook.com/variantstudios
-Twitter:         http://twitter.com/variantstudios
+Company Website:	http://www.variantstudios.com
+Facebook:		http://www.facebook.com/variantstudios
+Twitter:		http://twitter.com/variantstudios
 
 VS Team:  
                 Brent Robbins
