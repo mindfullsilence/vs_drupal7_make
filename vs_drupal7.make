@@ -106,6 +106,16 @@ projects[entityreference][subdir] = contrib
 projects[taxonomy_filter][subdir] = contrib
 projects[field_formatter_settings][subdir] = contrib
 
+; Custom VS Drupal Modules
+projects[vs_drupal7_dashboard_profile][type] = module
+projects[vs_drupal7_dashboard_profile][download][type] = git
+projects[vs_drupal7_dashboard_profile][subdir] = custom
+projects[vs_drupal7_dashboard_profile][download][url] = https://github.com/variantstudios/vs_drupal7_dashboard_profile.git
+
+projects[vs_drupal7_admin_notes][type] = module
+projects[vs_drupal7_admin_notes][download][type] = git
+projects[vs_drupal7_admin_notes][subdir] = custom
+projects[vs_drupal7_admin_notes][download][url] = https://github.com/variantstudios/vs_drupal7_admin_notes.git
 
 ; Themes
 ; --------
