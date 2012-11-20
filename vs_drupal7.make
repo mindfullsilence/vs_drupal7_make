@@ -77,6 +77,7 @@ projects[delta][subdir] = contrib
 projects[context][subdir] = contrib
 
 ; Display Suite 
+projects[ds][version] = 7.x-1.x-dev
 projects[ds][subdir] = contrib
 
 ; NEW MISC MODULES
@@ -101,10 +102,18 @@ projects[browscap][subdir] = contrib
 projects[browserclass][subdir] = contrib
 projects[browscap_block][subdir] = contrib
 projects[image_url_formatter][subdir] = contrib
-projects[lightbox2][subdir] = contrib
+;projects[lightbox2][subdir] = contrib
 projects[entityreference][subdir] = contrib
 projects[taxonomy_filter][subdir] = contrib
 projects[field_formatter_settings][subdir] = contrib
+projects[publishcontent][subdir] = contrib
+
+; ColorBox
+projects[colorbox][subdir] = contrib
+libraries[colorbox][download][type] = git
+libraries[ckeditor][download][url] = https://github.com/jackmoore/colorbox.git 
+libraries[ckeditor][destination] = "libraries"
+projects[colorbox_node][subdir] = contrib
 
 ; Custom VS Drupal Modules
 projects[vs_drupal7_dashboard_profile][type] = module
