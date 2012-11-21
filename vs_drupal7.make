@@ -107,12 +107,13 @@ projects[entityreference][subdir] = contrib
 projects[taxonomy_filter][subdir] = contrib
 projects[field_formatter_settings][subdir] = contrib
 projects[publishcontent][subdir] = contrib
+projects[speedy][subdir] = contrib
 
 ; ColorBox
 projects[colorbox][subdir] = contrib
-libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
-libraries[colorbox][destination] = "libraries"
+libraries[colorbox][download][type] = file
+libraries[colorbox][download][url] = http://www.jacklmoore.com/colorbox/colorbox.zip 
+libraries[colorbox][destination] = libraries
 projects[colorbox_node][subdir] = contrib
 
 ; Custom VS Drupal Modules
