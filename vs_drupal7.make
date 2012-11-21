@@ -110,8 +110,8 @@ projects[publishcontent][subdir] = contrib
 
 ; ColorBox
 projects[colorbox][subdir] = contrib
-libraries[colorbox][download][type] = file
-libraries[colorbox][download][url] = http://www.jacklmoore.com/colorbox/colorbox.zip
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
 libraries[colorbox][destination] = "libraries"
 projects[colorbox_node][subdir] = contrib
 
