@@ -55,7 +55,7 @@ projects[webform][subdir] = contrib
 projects[redirect][subdir] = contrib
 projects[google_analytics][subdir] = contrib
 projects[metatag][subdir] = contrib
-projects[page_title][subdir] = contrib
+;projects[page_title][subdir] = contrib
 projects[pathauto][subdir] = contrib
 projects[transliteration][subdir] = contrib
 projects[xmlsitemap][subdir] = contrib
@@ -110,9 +110,9 @@ projects[publishcontent][subdir] = contrib
 
 ; ColorBox
 projects[colorbox][subdir] = contrib
-libraries[colorbox][download][type] = git
-libraries[ckeditor][download][url] = https://github.com/jackmoore/colorbox.git 
-libraries[ckeditor][destination] = "libraries"
+libraries[colorbox][download][type] = file
+libraries[colorbox][download][url] = http://www.jacklmoore.com/colorbox/colorbox.zip
+libraries[colorbox][destination] = "libraries"
 projects[colorbox_node][subdir] = contrib
 
 ; Custom VS Drupal Modules
