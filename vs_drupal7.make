@@ -77,7 +77,7 @@ projects[delta][subdir] = contrib
 projects[context][subdir] = contrib
 
 ; Display Suite 
-projects[ds][version] = 1.x-dev
+projects[ds][version] = 1.5
 projects[ds][subdir] = contrib
 
 ; NEW MISC MODULES
