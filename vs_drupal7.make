@@ -86,6 +86,7 @@ projects[login_destination][subdir] = contrib
 projects[fences][subdir] = contrib
 projects[custom_formatters][subdir] = contrib
 projects[file_entity][subdir] = contrib
+projects[libraries][version] = 2.0
 projects[libraries][subdir] = contrib
 projects[adaptive_image][subdir] = contrib
 projects[field_collection][subdir] = contrib
